@@ -1,0 +1,9 @@
+{
+    "packages": [],
+    "packages-dev": [],
+    "version": "1.0.0",
+    "lockfile-version": 1,
+    "platform": {
+        "php": "7.4.0"
+    }
+}
